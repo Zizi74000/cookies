@@ -11,8 +11,7 @@ Provider of Cookie | Cookie Name | Description | Expiration*
 GitHub | `app_manifest_token` | This cookie is used during the App Manifest flow to maintain the state of the flow during the redirect to fetch a user session. | Five minutes
 GitHub | `color_mode` | This cookie is used to indicate the user selected theme preference. | Session
 GitHub | `_device_id` | This cookie is used to track recognized devices for security purposes. | One year
-GitHub | `dotcom_user` | This cookie is used to signal to us that the user is already logged in. | One year
-GitHub | `enterprise_trial_redirect_to` | This cookie is used to complete a redirect for trial users | 5 minutes
+GitHub | `dotcom_user` | This cookie is used to signal to us that the user is already lorprise_trial_redirect_to` | This cookie is used to complete a redirect for trial users | 5 minutes
 GitHub | `fileTreeExpanded` | Used to indicate whether the file tree on the code view was last expanded or collapsed | 30 days
 GitHub | `ghcc` | This cookie validates user's choice about cookies | 180 Days
 GitHub | `_gh_ent` | This cookie is used for temporary application and framework state between pages like what step the customer is on in a multiple step form. | Two weeks
@@ -57,7 +56,7 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [Adobe](https://www.adobe.com/privacy/policy.html) | `mbox` | Adobe Target to store session ID | 13 months
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_cs_c` | Consent state: digit between 0 and 3. Used for capturing analytics on web pages | 13 months
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_cs_cvars` | This cookie is used to capture analytics on the web page | Session
-[Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_cs_id` | Contains: user ID, timestamp (in seconds) of user creation, number of visits for this user | 13 months
+[Conteontentsquare.com/en/tracking-tag-cookies) | `_cs_id` | Contains: user ID, timestamp (in seconds) of user creation, number of visits for this user | 13 months
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_cs_s` | Number of page views for the current session, and the recording state | One year
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `__CT_Data` | This cookie is used to count the number of a guest’s pageviews or visits | One year
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_CT_RS_` | This cookie is used to capture analytics on the web page | One year
@@ -90,12 +89,9 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | AnalyticsSyncHistory | This cookie is used to store information about the time a sync took place with the lms_analytics cookie. | 30 Days
 [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | lms_ads | This cookie is used to identify LinkedIn Members off LinkedIn for advertising. | 30 Days
 [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | lms_analytics | This cookie is used to identify LinkedIn Members off LinkedIn for analytics. | 30 Days
-[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_fat_id | This cookie is used for conversion tracking, retargeting, analytics. | 30 Days
-[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_sugr | This cookie is used to make a probabilistic match of a user's identity. | 90 Days
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_fat_id | This cookie is used for conversion tracking, retd to make a probabilistic match of a user's identity. | 90 Days
 [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | U | This cookie is used as a browser identifier. | 3 months
-[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | BizographicsOptOutBizographicsOptOut | This cookie is used to determine opt-out status for non-members. | 10 years
-[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_giant | This cookie is used for conversion tracking. | 7 Days | https://www.linkedin.com/legal/privacy-policy
-[Quantcast](https://www.quantcast.com/privacy/) | cref | This cookie is used for Market and Audience Segmentation and Targeted advertising services. | 13 months
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | BizographicsOptOutBizographior Market and Audience Segmentation and Targeted advertising services. | 13 months
 [Quantcast](https://www.quantcast.com/privacy/) | d | This cookie is used for Market and Audience Segmentation and Targeted advertising services. | 3 months
 [Quantcast](https://www.quantcast.com/privacy/) | mc | This cookie is used to track anonymous information about how website visitors use the site. | 13 months
 [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) | A3 | This cookie is used for search and advertising. | One year	
